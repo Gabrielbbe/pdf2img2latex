@@ -2,6 +2,8 @@ Python scripts to transform pdf to image, image to English text and latex code.
 
 Made with the intention to extract latex code from scientific articles, there's a lot to improve in these scripts.
 
+Running the script pdfimg2texts.py is computationally expensive because it uses OCR models, I recommend running it in a google colab notebook.
+
 first download your pdf file then run
 
 ```
