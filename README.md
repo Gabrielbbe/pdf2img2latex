@@ -1,6 +1,6 @@
 Pipeline that uses Python scripts to transform pdf to images and images to English text and latex code.
 
-Made with the intention to extract latex code from scientific articles, there's a lot to improve in these scripts.
+Made with the intention to extract latex code from scientific articles, (there's a lot to improve in these scripts, I made it unpretentiously to use in my prototype of a search engine of latex code in scientific articles)
 
 Running the script pdfimg2texts.py is computationally expensive because it uses OCR models, I recommend running it in a google colab notebook.
 
