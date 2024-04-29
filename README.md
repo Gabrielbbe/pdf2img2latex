@@ -1,4 +1,4 @@
-Pipeline that uses Python scripts to transform pdf to images and images to English text and latex code.
+Pipeline that uses Python scripts to transform pdf to images and images to English text and latex code, while running the ocr models I faced some problems, so I decided to keep it in script format to keep it simple.
 
 Made with the intention to extract latex code from scientific articles, (there's a lot to improve in these scripts, I made it unpretentiously to use in my prototype of a search engine of latex code in scientific articles)
 
